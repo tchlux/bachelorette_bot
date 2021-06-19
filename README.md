@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-	A `python3` (wikipedia) web scraper for bachelorette data with simple predictive models.
+	A <code>python3</code> (wikipedia) web scraper for bachelorette data with simple predictive models.
 </p>
 
 <p align="center">
-	`DEVELOPMENT IN PROGRESS`
+	<code>DEVELOPMENT IN PROGRESS</code>
 </p>
 
 # Usage
