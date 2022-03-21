@@ -1,4 +1,4 @@
-Season,Name,Column,Status
+Season,Name,Column,Label
 1,Jamie,0,none
 1,Russell,1,none
 1,Charlie,2,none
@@ -261,27 +261,27 @@ Season,Name,Column,Status
 3,Matt L,0,none
 3,Jerry,0,none
 4,Brian,0,none
-4,Jeremy,1,the contestant received a first impression rose
-4,Paul,2,the contestant received a rose during the date
-4,Robert,3,the contestant received a rose during the date
-4,Jesse,4,the contestant received a rose during the date
+4,Jeremy,1,the contestant received the first impression rose
+4,Paul,2,the contestant received a rose during a date
+4,Robert,3,the contestant received a rose during a date
+4,Jesse,4,the contestant received a rose during a date
 4,Jeremy,5,none
 4,Jesse,6,none
 4,Jesse,7,none
 4,Jesse,8,the contestant won the competition
 4,Paul,0,none
-4,Jesse,1,the contestant received a first impression rose
-4,Graham,2,the contestant received a rose during the date
-4,Jason,3,the contestant received a rose during the date
-4,Sean,4,the contestant received a rose during the date
+4,Jesse,1,the contestant received the first impression rose
+4,Graham,2,the contestant received a rose during a date
+4,Jason,3,the contestant received a rose during a date
+4,Sean,4,the contestant received a rose during a date
 4,Jason,5,none
 4,Jeremy,6,none
 4,Jason,7,none
 4,Jason,8,the contestant was eliminated
 4,Graham,0,none
-4,Richard,1,the contestant received a first impression rose
-4,Jeremy,2,the contestant received a rose during the date
-4,Fred,3,the contestant received a rose during the date
+4,Richard,1,the contestant received the first impression rose
+4,Jeremy,2,the contestant received a rose during a date
+4,Fred,3,the contestant received a rose during a date
 4,Jason,4,none
 4,Graham,5,none
 4,Jason,6,none
@@ -314,12 +314,12 @@ Season,Name,Column,Status
 4,Sean,1,none
 4,Jason,2,none
 4,Graham,3,none
-4,Fred,4,the contestant was eliminated during the date
+4,Fred,4,the contestant was eliminated during a date
 4,John,0,none
 4,Ryan,1,none
 4,Fred,2,none
 4,Sean,3,none
-4,Robert,4,the contestant was eliminated during the date
+4,Robert,4,the contestant was eliminated during a date
 4,Chris,0,none
 4,Chris,1,none
 4,Sean,2,none
@@ -331,7 +331,7 @@ Season,Name,Column,Status
 4,Jeffrey,0,none
 4,Fred,1,none
 4,Twiley,2,none
-4,Richard,3,the contestant was eliminated during the date
+4,Richard,3,the contestant was eliminated during a date
 4,Donato,0,none
 4,Twiley,1,none
 4,Chris,2,the contestant was eliminated
@@ -362,32 +362,32 @@ Season,Name,Column,Status
 4,Patrick D.,0,none
 4,Jeremy,0,none
 5,Kiptyn,0,none
-5,David,1,the contestant was given a first impression rose
-5,Wes,2,the contestant received a rose during the date
-5,Ed,3,the contestant received a rose during the date
-5,Kiptyn,4,the contestant received a rose during the date
-5,Michael,5,the contestant received a rose during the date
-5,Kiptyn,6,the contestant received a rose during the date
+5,David,1,the contestant received the first impression rose
+5,Wes,2,the contestant received a rose during a date
+5,Ed,3,the contestant received a rose during a date
+5,Kiptyn,4,the contestant received a rose during a date
+5,Michael,5,the contestant received a rose during a date
+5,Kiptyn,6,the contestant received a rose during a date
 5,Reid,7,none
 5,Ed,8,none
 5,Kiptyn,9,none
 5,Ed,10,the contestant won the competition
 5,Bryan,0,none
 5,Jake,1,none
-5,Jake,2,the contestant received a rose during the date
-5,Robby,3,the contestant received a rose during the date
-5,Jesse,4,the contestant received a rose during the date
-5,Jesse,5,the contestant received a rose during the date
-5,Reid,6,the contestant received a rose during the date
+5,Jake,2,the contestant received a rose during a date
+5,Robby,3,the contestant received a rose during a date
+5,Jesse,4,the contestant received a rose during a date
+5,Jesse,5,the contestant received a rose during a date
+5,Reid,6,the contestant received a rose during a date
 5,Kiptyn,7,none
 5,Reid,8,none
 5,Ed,9,none
 5,Kiptyn,10,the contestant was eliminated
 5,John P.,0,none
 5,Jesse,1,none
-5,Mike,2,the contestant received a rose during the date
+5,Mike,2,the contestant received a rose during a date
 5,Jake,3,none
-5,Mark,4,the contestant received a rose during the date
+5,Mark,4,the contestant received a rose during a date
 5,Reid,5,none
 5,Jesse,6,none
 5,Ed,7,none
@@ -431,7 +431,7 @@ Season,Name,Column,Status
 5,Wes,3,none
 5,Wes,4,none
 5,Wes,5,none
-5,Robby,6,the contestant was eliminated during the date
+5,Robby,6,the contestant was eliminated during a date
 5,Robby,0,none
 5,Reid,1,none
 5,Mark,2,none
@@ -458,7 +458,7 @@ Season,Name,Column,Status
 5,Brian,1,none
 5,Reid,2,none
 5,David,3,none
-5,Mike,4,the contestant was eliminated during the date
+5,Mike,4,the contestant was eliminated during a date
 5,Simon,0,none
 5,Sasha,1,none
 5,Robby,2,none
@@ -470,7 +470,7 @@ Season,Name,Column,Status
 5,Julien,0,none
 5,Tanner P.,1,none
 5,Brad,2,none
-5,Sasha,3,the contestant was eliminated during the date
+5,Sasha,3,the contestant was eliminated during a date
 5,Wes,0,none
 5,Mark,1,none
 5,Brian,2,the contestant was eliminated
@@ -626,34 +626,34 @@ Season,Name,Column,Status
 6,Derrick,0,none
 6,Jason,0,none
 7,Ryan P.,0,none
-7,Ryan P.,1,the contestant received a first impression rose
-7,William,2,the contestant received a rose during the date
-7,Ben C.,3,the contestant received a rose during the date
-7,Constantine,4,the contestant received a rose during the date
-7,Ben F.,5,the contestant received a rose during the date
-7,Lucas,6,the contestant received a rose during the date
-7,J.P.,7,the contestant received a rose during the date
+7,Ryan P.,1,the contestant received the first impression rose
+7,William,2,the contestant received a rose during a date
+7,Ben C.,3,the contestant received a rose during a date
+7,Constantine,4,the contestant received a rose during a date
+7,Ben F.,5,the contestant received a rose during a date
+7,Lucas,6,the contestant received a rose during a date
+7,J.P.,7,the contestant received a rose during a date
 7,Ben F.,8,none
 7,Ben F.,9,none
 7,J.P.,10,the contestant won the competition
 7,Jon,0,none
 7,Jeff,1,none
-7,Bentley,2,the contestant received a rose during the date
-7,Ryan P.,3,the contestant received a rose during the date
-7,Ben F.,4,the contestant received a rose during the date
-7,Blake,5,the contestant received a rose during the date
-7,Ryan P.,6,the contestant received a rose during the date
+7,Bentley,2,the contestant received a rose during a date
+7,Ryan P.,3,the contestant received a rose during a date
+7,Ben F.,4,the contestant received a rose during a date
+7,Blake,5,the contestant received a rose during a date
+7,Ryan P.,6,the contestant received a rose during a date
 7,Constantine,7,none
 7,J.P.,8,none
 7,J.P.,9,none
 7,Ben F.,10,the contestant was eliminated
 7,Lucas,0,none
 7,Constantine,1,none
-7,Mickey,2,the contestant received a rose during the date
-7,J.P.,3,the contestant received a rose during the date
-7,Ames,4,the contestant received a rose during the date
+7,Mickey,2,the contestant received a rose during a date
+7,J.P.,3,the contestant received a rose during a date
+7,Ames,4,the contestant received a rose during a date
 7,Constantine,5,none
-7,J.P.,6,the contestant received a rose during the date
+7,J.P.,6,the contestant received a rose during a date
 7,Ben F.,7,none
 7,Constantine,8,none
 7,Ryan P.,9,an eliminated contestant asks for a chance to return however was denied
@@ -682,7 +682,7 @@ Season,Name,Column,Status
 7,J.P.,4,none
 7,Ames,5,none
 7,Ames,6,none
-7,Ryan P.,7,the contestant was eliminated during the date
+7,Ryan P.,7,the contestant was eliminated during a date
 7,Ben C.,0,none
 7,Matt,1,none
 7,Ben C.,2,none
@@ -709,13 +709,13 @@ Season,Name,Column,Status
 7,Lucas,2,none
 7,Ames,3,none
 7,William,4,none
-7,William,5,the contestant was eliminated during the date
+7,William,5,the contestant was eliminated during a date
 7,Anthony,0,none
 7,Blake,1,none
 7,Jeff,2,none
 7,Lucas,3,none
 7,Ben C.,4,none
-7,Ben C.,5,the contestant was eliminated during the date
+7,Ben C.,5,the contestant was eliminated during a date
 7,Rob,0,none
 7,Mickey,1,none
 7,J.P.,2,none
@@ -757,32 +757,32 @@ Season,Name,Column,Status
 7,Constantine,0,none
 7,Tim,1,the contestant was eliminated outside the rose ceremony
 8,Sean,0,none
-8,Doug,1,the contestant was given the first impression rose
-8,Ryan,2,the contestant was given a rose during the date
-8,Chris,3,the contestant was given a rose during the date
-8,Doug,4,the contestant was given a rose during the date
-8,Sean,5,the contestant was given a rose during the date
-8,Chris,6,the contestant was given a rose during the date
-8,Sean,7,the contestant was given a rose during the date
+8,Doug,1,the contestant received the first impression rose
+8,Ryan,2,the contestant received a rose during a date
+8,Chris,3,the contestant received a rose during a date
+8,Doug,4,the contestant received a rose during a date
+8,Sean,5,the contestant received a rose during a date
+8,Chris,6,the contestant received a rose during a date
+8,Sean,7,the contestant received a rose during a date
 8,Arie,8,none
 8,Jef,9,none
 8,Jef,10,the contestant won the competition
 8,David,0,none
 8,Chris,1,none
-8,Jef,2,the contestant was given a rose during the date
-8,Sean,3,the contestant was given a rose during the date
-8,Jef,4,the contestant was given a rose during the date
-8,Jef,5,the contestant was given a rose during the date
+8,Jef,2,the contestant received a rose during a date
+8,Sean,3,the contestant received a rose during a date
+8,Jef,4,the contestant received a rose during a date
+8,Jef,5,the contestant received a rose during a date
 8,Sean,6,none
 8,Jef,7,none
 8,Jef,8,none
 8,Arie,9,none
-8,Arie,10,the contestant was eliminated during the date
+8,Arie,10,the contestant was eliminated during a date
 8,Doug,0,none
 8,Ryan,1,none
 8,Kalon,2,none
-8,Arie,3,the contestant was given a rose during the date
-8,John,4,the contestant was given a rose during the date
+8,Arie,3,the contestant received a rose during a date
+8,John,4,the contestant received a rose during a date
 8,Doug,5,none
 8,Jef,6,none
 8,Arie,7,none
@@ -812,21 +812,21 @@ Season,Name,Column,Status
 8,Doug,3,none
 8,Travis,4,none
 8,John,5,none
-8,Doug,6,the contestant was eliminated during the date
+8,Doug,6,the contestant was eliminated during a date
 8,Kyle,0,none
 8,Jef,1,none
 8,Sean,2,none
 8,Michael,3,none
 8,Chris,4,none
 8,Travis,5,none
-8,Ryan,6,the contestant was eliminated during the date
+8,Ryan,6,the contestant was eliminated during a date
 8,Chris,0,none
 8,Nathan,1,none
 8,Chris,2,none
 8,Travis,3,none
 8,Ryan,4,none
 8,Arie,5,none
-8,Travis,6,the contestant was eliminated during the date
+8,Travis,6,the contestant was eliminated during a date
 8,Aaron,0,none
 8,Sean,1,none
 8,Doug,2,none
@@ -838,7 +838,7 @@ Season,Name,Column,Status
 8,Travis,2,none
 8,Ryan,3,none
 8,Alejandro,4,none
-8,Kalon,5,the contestant was eliminated during the date
+8,Kalon,5,the contestant was eliminated during a date
 8,Jef,0,none
 8,Kyle,1,none
 8,Tony,2,none
@@ -853,7 +853,7 @@ Season,Name,Column,Status
 8,Alejandro,1,none
 8,Alessandro,2,none
 8,Nathan,3,none
-8,Nathan,4,the contestant was eliminated during the date
+8,Nathan,4,the contestant was eliminated during a date
 8,Charlie,0,none
 8,John,1,none
 8,Charlie,2,none
@@ -865,7 +865,7 @@ Season,Name,Column,Status
 8,Randy,0,none
 8,Michael,1,none
 8,Stevie,2,none
-8,Tony,3,the contestant was eliminated during the date
+8,Tony,3,the contestant was eliminated during a date
 8,Nathan,0,none
 8,Stevie,1,none
 8,Aaron,2,the contestant was eliminated
@@ -874,7 +874,7 @@ Season,Name,Column,Status
 8,Tony,1,none
 8,John,0,none
 8,Travis,1,none
-8,Joe,2,the contestant was eliminated during the date
+8,Joe,2,the contestant was eliminated during a date
 8,Travis,0,none
 8,Brent,1,the contestant was eliminated
 8,David,1,the contestant was eliminated
@@ -888,33 +888,33 @@ Season,Name,Column,Status
 8,Ryan,0,none
 8,Kalon,0,none
 9,Drew,0,none
-9,Ben,1,the contestant received a first impression rose
-9,Brooks,2,the contestant received a rose during the date
-9,Chris,3,the contestant received a rose during the date
-9,Zak W.,4,the contestant received a rose during the date
-9,Chris,5,the contestant received a rose during the date
-9,Drew,6,the contestant received a rose during the date
-9,Drew,7,the contestant received a rose during the date
+9,Ben,1,the contestant received the first impression rose
+9,Brooks,2,the contestant received a rose during a date
+9,Chris,3,the contestant received a rose during a date
+9,Zak W.,4,the contestant received a rose during a date
+9,Chris,5,the contestant received a rose during a date
+9,Drew,6,the contestant received a rose during a date
+9,Drew,7,the contestant received a rose during a date
 9,Brooks,8,none
 9,Drew,9,none
 9,Chris,10,the contestant won the competition
 9,Brooks,0,none
 9,Zak W.,1,the contestant received a rose in the first night
-9,Ben,2,the contestant received a rose during the date
-9,Kasey,3,the contestant received a rose during the date
-9,James,4,the contestant received a rose during the date
-9,Brooks,5,the contestant received a rose during the date
-9,Zak W.,6,the contestant received a rose during the date
+9,Ben,2,the contestant received a rose during a date
+9,Kasey,3,the contestant received a rose during a date
+9,James,4,the contestant received a rose during a date
+9,Brooks,5,the contestant received a rose during a date
+9,Zak W.,6,the contestant received a rose during a date
 9,Brooks,7,none
 9,Chris,8,none
 9,Chris,9,none
-9,Drew,10,the contestant was eliminated during the date
+9,Drew,10,the contestant was eliminated during a date
 9,Brad,0,none
 9,Bryden,1,the contestant received a rose in the first night
-9,Bryden,2,the contestant received a rose during the date
-9,James,3,the contestant received a rose during the date
+9,Bryden,2,the contestant received a rose during a date
+9,James,3,the contestant received a rose during a date
 9,Chris,4,none
-9,Michael G.,5,the contestant received a rose during the date
+9,Michael G.,5,the contestant received a rose during a date
 9,Chris,6,none
 9,Chris,7,none
 9,Drew,8,none
@@ -968,7 +968,7 @@ Season,Name,Column,Status
 9,Brian,2,none
 9,Brad,3,none
 9,Bryden,4,none
-9,Ben,5,the contestant was eliminated during the date
+9,Ben,5,the contestant was eliminated during a date
 9,James,0,none
 9,Juan Pablo,1,none
 9,Zak W.,2,none
@@ -984,7 +984,7 @@ Season,Name,Column,Status
 9,Kasey,1,none
 9,Mikey T.,2,none
 9,Ben,3,none
-9,Brad,4,the contestant was eliminated during the date
+9,Brad,4,the contestant was eliminated during a date
 9,Zack K.,0,none
 9,James,1,none
 9,Zack K.,2,none
@@ -1019,37 +1019,37 @@ Season,Name,Column,Status
 9,Ben,0,none
 9,Jonathan,1,the contestant was eliminated outside the rose ceremony
 10,Marcus,0,none
-10,Nick V.,1,the contestant received a first impression rose
-10,Eric,2,the contestant received a rose during the date
-10,Nick V.,3,the contestant received a rose during the date
-10,Dylan,4,the contestant received a rose during the date
-10,Josh M.,5,the contestant received a rose during the date
-10,Nick V.,6,the contestant received a rose during the date
-10,Nick V.,7,the contestant received a rose during the date
+10,Nick V.,1,the contestant received the first impression rose
+10,Eric,2,the contestant received a rose during a date
+10,Nick V.,3,the contestant received a rose during a date
+10,Dylan,4,the contestant received a rose during a date
+10,Josh M.,5,the contestant received a rose during a date
+10,Nick V.,6,the contestant received a rose during a date
+10,Nick V.,7,the contestant received a rose during a date
 10,Josh M.,8,none
 10,Nick V.,9,none
 10,Josh M.,10,the contestant won the competition
 10,Chris,0,none
 10,J.J.,1,none
-10,Marcus,2,the contestant received a rose during the date
-10,Josh M.,3,the contestant received a rose during the date
-10,Brian,4,the contestant received a rose during the date
-10,J.J.,5,the contestant received a rose during the date
-10,Chris,6,the contestant received a rose during the date
+10,Marcus,2,the contestant received a rose during a date
+10,Josh M.,3,the contestant received a rose during a date
+10,Brian,4,the contestant received a rose during a date
+10,J.J.,5,the contestant received a rose during a date
+10,Chris,6,the contestant received a rose during a date
 10,Josh M.,7,none
 10,Chris,8,none
 10,Josh M.,9,none
 10,Nick V.,10,the contestant was eliminated outside the rose ceremony
 10,J.J.,0,none
 10,Eric,1,none
-10,Chris,2,the contestant received a rose during the date
-10,J.J.,3,the contestant received a rose during the date
-10,Marcus,4,the contestant received a rose during the date
-10,Brian,5,the contestant received a rose during the date
+10,Chris,2,the contestant received a rose during a date
+10,J.J.,3,the contestant received a rose during a date
+10,Marcus,4,the contestant received a rose during a date
+10,Brian,5,the contestant received a rose during a date
 10,Dylan,6,none
 10,Marcus,7,none
 10,Nick V.,8,none
-10,Chris,9,the contestant was eliminated during the date
+10,Chris,9,the contestant was eliminated during a date
 10,Marquel,0,none
 10,Marquel,1,none
 10,Ron,2,none
@@ -1088,7 +1088,7 @@ Season,Name,Column,Status
 10,Cody,3,none
 10,Chris,4,none
 10,Cody,5,none
-10,Cody,6,the contestant was eliminated during the date
+10,Cody,6,the contestant was eliminated during a date
 10,Carl,0,none
 10,Bradley,1,none
 10,Tasos,2,none
@@ -1274,7 +1274,7 @@ Season,Name,Column,Status
 11,Ryan M.,1,the contestant was eliminated outside the rose ceremony
 11,Nick,0,none
 12,Jordan,0,none
-12,Jordan,1,the contestant received a first impression rose
+12,Jordan,1,the contestant received the first impression rose
 12,Wells,2,the contestant received a rose during a date
 12,Chase,3,the contestant received a rose during a date
 12,Luke,4,the contestant received a rose during a date
@@ -1566,7 +1566,7 @@ Season,Name,Column,Status
 13,Michael,0,none
 13,Lucas,0,none
 14,Colton,0,none
-14,Garrett,1,the contestant received a first impression rose
+14,Garrett,1,the contestant received the first impression rose
 14,Jean Blanc,2,the contestant received a rose during a date
 14,Colton,3,the contestant received a rose during a date
 14,Garrett,4,the contestant received a rose during a date
@@ -1713,34 +1713,34 @@ Season,Name,Column,Status
 14,Jake,1,the contestant was eliminated outside the rose ceremony
 15,Garrett,0,none
 15,Cam,1,none
-15,Jed,2,the contestant received a rose during the date
-15,Mike,3,the contestant received a rose during the date
-15,Jed,4,the contestant received a rose during the date
-15,Mike,5,the contestant received a rose during the date
-15,Garrett,6,the contestant received a rose during the date
-15,Jed,7,the contestant received a rose during the date
+15,Jed,2,the contestant received a rose during a date
+15,Mike,3,the contestant received a rose during a date
+15,Jed,4,the contestant received a rose during a date
+15,Mike,5,the contestant received a rose during a date
+15,Garrett,6,the contestant received a rose during a date
+15,Jed,7,the contestant received a rose during a date
 15,Peter,8,none
 15,Jed,9,none
 15,Jed,10,the contestant won the competition
 15,Mike,0,none
 15,Luke P.,1,none
-15,Tyler G.,2,the contestant received a rose during the date
-15,Connor S.,3,the contestant received a rose during the date
-15,Garrett,4,the contestant received a rose during the date
-15,Jed,5,the contestant received a rose during the date
-15,Tyler C.,6,the contestant received a rose during the date
-15,Tyler C.,7,the contestant received a rose during the date
+15,Tyler G.,2,the contestant received a rose during a date
+15,Connor S.,3,the contestant received a rose during a date
+15,Garrett,4,the contestant received a rose during a date
+15,Jed,5,the contestant received a rose during a date
+15,Tyler C.,6,the contestant received a rose during a date
+15,Tyler C.,7,the contestant received a rose during a date
 15,Tyler C.,8,none
 15,Tyler C.,9,none
 15,Tyler C.,10,the contestant was eliminated
 15,Jed,0,none
 15,Mike,1,none
-15,Dustin,2,the contestant received a rose during the date
-15,Peter,3,the contestant received a rose during the date
-15,Tyler C.,4,the contestant received a rose during the date
+15,Dustin,2,the contestant received a rose during a date
+15,Peter,3,the contestant received a rose during a date
+15,Tyler C.,4,the contestant received a rose during a date
 15,Connor S.,5,none
-15,Peter,6,the contestant received a rose during the date
-15,Peter,7,the contestant received a rose during the date
+15,Peter,6,the contestant received a rose during a date
+15,Peter,7,the contestant received a rose during a date
 15,Luke P.,8,none
 15,Peter,9,the contestant was eliminated
 15,Tyler C.,0,none
@@ -1750,9 +1750,9 @@ Season,Name,Column,Status
 15,Peter,4,none
 15,Tyler C.,5,none
 15,Jed,6,none
-15,Luke P.,7,the contestant received a rose during the date
+15,Luke P.,7,the contestant received a rose during a date
 15,Jed,8,none
-15,Luke P.,9,the contestant was eliminated during the date
+15,Luke P.,9,the contestant was eliminated during a date
 15,Dylan,0,none
 15,Matthew,1,none
 15,Garrett,2,none
@@ -1760,7 +1760,7 @@ Season,Name,Column,Status
 15,Connor S.,4,none
 15,Dustin,5,none
 15,Mike,6,none
-15,Garrett,7,the contestant was eliminated during the date
+15,Garrett,7,the contestant was eliminated during a date
 15,Connor S.,0,none
 15,Connor J.,1,none
 15,Devin,2,none
@@ -1768,7 +1768,7 @@ Season,Name,Column,Status
 15,Dylan,4,none
 15,Peter,5,none
 15,Connor S.,6,none
-15,Mike,7,the contestant was eliminated during the date
+15,Mike,7,the contestant was eliminated during a date
 15,Devin,0,none
 15,Jed,1,none
 15,Connor S.,2,none
@@ -1839,7 +1839,7 @@ Season,Name,Column,Status
 15,Ryan,0,none
 15,Garrett,1,none
 15,Cam,2,none
-15,Tyler G.,3,the contestant disqualified from the competition
+15,Tyler G.,3,the contestant was disqualified from the competition
 15,Hunter,0,none
 15,Grant,1,none
 15,Connor J.,2,the contestant was eliminated
@@ -1867,11 +1867,11 @@ Season,Name,Column,Status
 15,Scott,1,the contestant was eliminated outside the rose ceremony
 16,Ben,0,none
 16,Dale,1,the contestant received the first impression rose
-16,Riley,2,the contestant received a rose during the date
+16,Riley,2,the contestant received a rose during a date
 16,Dale,3,the contestant won the competition
 16,Riley,0,none
 16,Blake,1,none
-16,Jason,2,the contestant received a rose during the date
+16,Jason,2,the contestant received a rose during a date
 16,Ben,3,the contestant was eliminated outside the rose ceremony
 16,Bennett,3,the contestant was eliminated outside the rose ceremony
 16,Blake (ON),3,the contestant was eliminated outside the rose ceremony
@@ -1890,7 +1890,7 @@ Season,Name,Column,Status
 16,Zac C.,3,the contestant was eliminated outside the rose ceremony
 16,Zac C.,0,none
 16,Eazy,1,none
-16,Chasen,2,the contestant received a rose during the date
+16,Chasen,2,the contestant received a rose during a date
 16,Jordan M.,0,none
 16,Ben,1,none
 16,Blake,2,the contestant received a rose during the cocktail party
@@ -1936,7 +1936,7 @@ Season,Name,Column,Status
 16,Garin,0,none
 16,Bennett,1,none
 16,Zach J.,2,none
-16,Zach J.,3,the contestant was eliminated during the date
+16,Zach J.,3,the contestant was eliminated during a date
 16,Robby,0,none
 16,Zac C.,1,none
 16,Blake,2,the contestant was eliminated
@@ -1951,7 +1951,7 @@ Season,Name,Column,Status
 16,Yosef,2,the contestant was eliminated outside the rose ceremony
 16,Demar,0,none
 16,Yosef,1,none
-16,Brandon,2,the contestant was eliminated during the date
+16,Brandon,2,the contestant was eliminated during a date
 16,Ed,0,none
 16,AJ,1,the contestant was eliminated
 16,Chris,1,the contestant was eliminated
@@ -1970,10 +1970,10 @@ Season,Name,Column,Status
 16,Tyler S.,0,none
 16.5,Ben,0,none
 16.5,Spencer,1,the contestant received the first impression rose
-16.5,Eazy,2,the contestant received a rose during the date
-16.5,Noah,3,the contestant received a rose during the date
-16.5,Zac C.,4,the contestant received a rose during the date
-16.5,Ben,5,the contestant received a rose during the date
+16.5,Eazy,2,the contestant received a rose during a date
+16.5,Noah,3,the contestant received a rose during a date
+16.5,Zac C.,4,the contestant received a rose during a date
+16.5,Ben,5,the contestant received a rose during a date
 16.5,Ivan,6,none
 16.5,Zac C.,7,none
 16.5,Zac C.,8,the contestant won the competition
@@ -1997,16 +1997,16 @@ Season,Name,Column,Status
 16.5,Peter,1,none
 16.5,Riley,1,none
 16.5,Zac C.,1,none
-16.5,Brendan,2,the contestant received a rose during the date
-16.5,Ivan,3,the contestant received a rose during the date
-16.5,Ben,4,the contestant received a rose during the date
+16.5,Brendan,2,the contestant received a rose during a date
+16.5,Ivan,3,the contestant received a rose during a date
+16.5,Ben,4,the contestant received a rose during a date
 16.5,Zac C.,5,none
 16.5,Zac C.,6,none
 16.5,Ben,7,none
-16.5,Ben,8,the contestant was eliminated during the date
+16.5,Ben,8,the contestant was eliminated during a date
 16.5,Blake,0,none
-16.5,Ivan,1,the contestant received a rose during the date
-16.5,Zac C.,2,the contestant received a rose during the date
+16.5,Ivan,1,the contestant received a rose during a date
+16.5,Zac C.,2,the contestant received a rose during a date
 16.5,Brendan,3,none
 16.5,Ivan,4,none
 16.5,Brendan,5,none
@@ -2039,7 +2039,7 @@ Season,Name,Column,Status
 16.5,Demar,3,the contestant was eliminated
 16.5,Ed,3,the contestant was eliminated
 16.5,Spencer,3,the contestant was eliminated
-16.5,Blake,4,the contestant was eliminated during the date
+16.5,Blake,4,the contestant was eliminated during a date
 16.5,Ivan,0,none
 16.5,Bennett,1,none
 16.5,Blake,2,none
@@ -2053,7 +2053,7 @@ Season,Name,Column,Status
 16.5,Joe,0,none
 16.5,Noah,1,none
 16.5,Ed,2,none
-16.5,Eazy,3,the contestant was eliminated during the date
+16.5,Eazy,3,the contestant was eliminated during a date
 16.5,Jordan C.,0,none
 16.5,Joe,1,none
 16.5,Chasen,2,the contestant was eliminated
@@ -2076,45 +2076,66 @@ Season,Name,Column,Status
 16.5,Jason,1,the contestant quit the competition
 17,Thomas,0,none
 17,Greg,1,the contestant received the first impression rose
-17,Thomas,2,the contestant received a rose during the date
+17,Thomas,2,the contestant received a rose during a date
+17,Connor B.,3,the contestant received a rose during a date
 17,Aaron,0,none
 17,Tre,1,none
-17,Greg,2,the contestant received a rose during the date
+17,Greg,2,the contestant received a rose during a date
+17,Michael,3,the contestant received a rose during a date
 17,Andrew M.,0,none
 17,Michael,1,none
-17,Andrew S.,2,the contestant received a rose during the date
+17,Andrew S.,2,the contestant received a rose during a date
 17,David,0,none
 17,Thomas,1,none
+17,David,2,none
 17,Michael,0,none
 17,Garrett,1,none
+17,Hunter,2,none
 17,Tre,0,none
 17,Connor B.,1,none
+17,Conor C.,2,none
 17,Greg,0,none
 17,Andrew S.,1,none
+17,Mike,2,none
 17,Gabriel,0,none
 17,James,1,none
+17,Michael,2,none
 17,John,0,none
 17,Justin,1,none
+17,Connor B.,2,none
 17,Garrett,0,none
 17,Quartney,1,none
+17,Quartney,2,none
 17,Austin,0,none
 17,Karl,1,none
+17,Tre,2,none
 17,Marty,0,none
 17,Mike,1,none
+17,Justin,2,none
 17,Landon,0,none
 17,John,1,none
+17,Andrew M.,2,none
 17,Karl,0,none
 17,Kyle,1,none
+17,Christian,2,none
 17,Josh,0,none
 17,Andrew M.,1,none
+17,Josh,2,none
 17,Andrew S.,0,none
 17,Josh,1,none
+17,Brendan,2,none
 17,Brandon,0,none
 17,Conor C.,1,none
+17,James,2,none
 17,Conor C.,0,none
 17,Brendan,1,none
+17,Aaron,2,none
 17,Kyle,0,none
 17,David,1,none
+17,Garrett,2,the contestant was eliminated
+17,John,2,the contestant was eliminated
+17,Karl,2,the contestant was eliminated
+17,Kyle,2,the contestant was eliminated
 17,Hunter,0,none
 17,Aaron,1,none
 17,Jeff,0,none
@@ -2123,7 +2144,7 @@ Season,Name,Column,Status
 17,Hunter,1,none
 17,Brendan,0,none
 17,Cody,1,none
-17,Cody,2,the contestant was eliminated during the date
+17,Cody,2,the contestant was eliminated during a date
 17,Marcus,0,none
 17,Austin,1,the contestant was eliminated
 17,Brandon,1,the contestant was eliminated

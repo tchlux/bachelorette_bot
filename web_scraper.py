@@ -191,7 +191,7 @@ if __name__ == "__main__":
 
     # Write the data to file.
     with open("bachelorette.csv", "w") as f:
-        first_row = ["Season", "Name", "Column", "Status"]
+        first_row = ["Season", "Name", "Column", "Label"]
         for row in [first_row] + data:
             row = ",".join(map(str, row))
             print(row, file=f)
